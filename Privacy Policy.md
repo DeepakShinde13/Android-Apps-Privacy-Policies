@@ -1,10 +1,10 @@
 Permissions 
 
-1. Camera Permission
-I require camera permssion to get the access to flashlight of the device.
+1. Camera Permission :
+I require camera permssion to access the flashlight of the device.
 
-2. Network State 
-Network state is needed to know if device is on Silent, General or Vibration.
+2. Phone State :
+It is needed to know if device is on Silent, General or Vibration.
 
-3. Netwok State
+3. Netwok State :
 It is needed to know if device has any incoming calls, so that the LED can be turned on.
