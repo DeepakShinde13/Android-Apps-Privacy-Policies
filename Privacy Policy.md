@@ -8,3 +8,5 @@ It is needed to know if device is on Silent, General or Vibration.
 
 3. Netwok State :
 It is needed to know if device is currently getting any incoming calls, so that the LED can be turned on.
+
+Any damage to the flash or device is not my responsibility.
