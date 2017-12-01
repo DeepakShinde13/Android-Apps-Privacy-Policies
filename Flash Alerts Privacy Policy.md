@@ -1,7 +1,7 @@
-This is the privacy policy for my android app Flash Alerts on playstore. 
+#### This is the privacy policy for my android app Flash Alerts on playstore. 
 Link to the app : https://play.google.com/store/apps/details?id=deebug.flashoncall
 
-Permissions 
+#### Permissions 
 
 1. Camera Permission :
 I require camera permssion to access the flashlight of the device.
